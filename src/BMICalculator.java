@@ -2,7 +2,8 @@
 divided by the square of height in meters (or feet).
 A high BMI can indicate high body fatness. BMI screens for weight
 categories that may lead to health problems,
-but it does not diagnose the body fatness or health of an individual.*/
+but it does not diagnose the body fatness or health of an individual.
+it is measured in kg/m2*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
